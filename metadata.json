@@ -1,0 +1,8 @@
+{
+  "name": "Assaí Performance Digital Semanal | 22/06 à 28/06/2026",
+  "description": "Relatório de Performance Digital Semanal",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
